@@ -1,12 +1,38 @@
-html,button,input,select,textarea{
-	color : #444;
+
+
+.nom{
+	color: #1A6F80;
+	font-size: 1.5em;
+}
+.prenom{
+	font-size: 1.5em;
 }
 
-html{
-	font-size: 1em;
-	line-height: 1.4;
+#wrapper{
+	min-width: 320px;
+	max-width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: comic sans ms;
+}
+
+img{
+	border: 3px solid;
+	border-color: #1A6F80;
+}
+b {
+  font-weight:normal;
 }
 
 h3{
-	color: red;
+	color: #2F8090;
+}
+h5{
+	color: #2F8090;
+}
+h4{
+	color: #1A6F80;
+}
+small{
+	color: #1A6F80;
 }
